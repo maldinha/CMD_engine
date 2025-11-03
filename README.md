@@ -1,2 +1,2 @@
 # CMD_engine
-This "game engine uses the terminal on windows, and lets you draw r
+This is an extremely impractical and bare bones "game engine", of so the only good to it is that it is extremely easy to interface with.  Great if you are starting in C++, but horrible in the long term                                                                                                                                                         <img width="1351" height="778" alt="image" src="https://github.com/user-attachments/assets/06e14d2a-8245-4889-813f-9d1365bbfc39" />
