@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Insiders\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(548,5): warning MSB8028: El directorio intermedio (x64\Release\) contiene archivos compartidos de otro proyecto (2dEngine.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  GraphicsEngine.cpp
+C:\Users\malditoxis\source\repos\2dEngine\2dEngine\Variables.h(13,24): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+  (compilando archivo de origen "GraphicsEngine.cpp")
+  
+  Generando código
+  7 of 91 functions ( 7.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  2dEngine.vcxproj -> C:\Users\malditoxis\source\repos\2dEngine\x64\Release\CMD Engine.exe
